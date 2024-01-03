@@ -1,4 +1,12 @@
 div{
-  background-color: tomato;
-  padding: 20px 20px 100%;
+  background-color: aqua; 
+  color:green;
+}
+.git{
+  color: blue;
+  cursor: pointer;
+}
+.git:hover{
+  text-decoration: underline;
+  text-transform:capitalize;
 }
